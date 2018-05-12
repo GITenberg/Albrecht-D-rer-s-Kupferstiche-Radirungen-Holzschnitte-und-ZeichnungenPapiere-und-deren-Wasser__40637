@@ -1,0 +1,31 @@
+_repo: Albrecht-D-rer-s-Kupferstiche-Radirungen-Holzschnitte-und-ZeichnungenPapiere-und-deren-Wasser__40637
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40637-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hausmann, Bernhard
+    alias: Hausmann, B.
+    birthdate: 1884
+    deathdate: 1943
+    gutenberg_agent_id: '40744'
+    url: http://www.gutenberg.org/2009/agents/40744
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2012-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40637'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NE'
+- !lcsh 'Watermarks'
+- !lcsh 'Engraving -- Catalogs'
+- !lcsh 'Dürer, Albrecht, 1471-1528'
+title: "Albrecht Dürer's Kupferstiche, Radirungen, Holzschnitte und Zeichnungen\r\n\
+  unter besonderer Berücksichtigung der dazu verwandten Papiere und deren Wasserzeichen"
+url: http://www.gutenberg.org/ebooks/40637

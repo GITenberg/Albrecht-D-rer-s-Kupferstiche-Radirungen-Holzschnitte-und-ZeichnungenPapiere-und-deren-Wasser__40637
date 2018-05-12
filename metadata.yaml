@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40744'
     url: http://www.gutenberg.org/2009/agents/40744
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40637#Albrecht-D-rer-s-Kupferstiche-Radirungen-Holzschnitte-und-ZeichnungenPapiere-und-deren-Wasser_
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2012-09-01'
 gutenberg_type: Text
